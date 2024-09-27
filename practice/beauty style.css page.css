@@ -1,0 +1,62 @@
+.one{
+  width: 1000px;
+  height: 200px;
+  background-color: yellow;
+}
+
+.two{
+  background-color: aqua;
+  color: red;
+  text-align: center;
+  width: 1000px;
+  height:50px ;
+  line-height: 50px;
+  
+}
+.three{
+  width: 1000px;
+  height: 500px;
+  background-color: brown;
+}
+a{
+  text-decoration: none;
+  font-size: 1.5em;
+  font-family: arial;
+  color: wheat;
+  margin: 30px;
+
+
+}
+h1{
+  color: antiquewhite;
+  text-align: center;
+  margin-top: 0px;
+  font-family: arial;
+  background-color: aliceblue;
+
+}
+.contact-form {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+#map {
+  height: 400px;
+  width: 100%;
+}
+.hero {
+  background: url('https://th.bing.com/th/id/OIP.KzMakWtt7cl5ZU68qfpKAAHaEd?rs=1&pid=ImgDetMain') no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+.testimonial {
+  background-color: #f8f9fa;
+}
